@@ -77,3 +77,6 @@ CleverCortex is an intelligent study planning and learning assistant designed to
 ### Authentication
 - Firebase Authentication
 - JWT Authentication
+
+
+code--PKWJYC
